@@ -22,12 +22,17 @@ install brew-file
 install autoconf
 install cmake
 install direnv
+install elixir
+install erlang
 install gdbm
 install git
 install go
 install htop-osx
 install hub
+install jpeg
 install libevent
+install libpng
+install libtiff
 install lv
 install memcached
 install mobile-shell
@@ -42,7 +47,9 @@ install readline
 install reattach-to-user-namespace
 install ruby-build
 install tmux
+install unixodbc
 install wget
+install wxmac
 install xz
 install zsh
 install zsh-completions
@@ -59,6 +66,7 @@ appstore Keynote
 appstore Kobito
 appstore MenuPop
 appstore Microsoft Remote Desktop
+appstore Monosnap
 appstore Numbers
 appstore Pages
 appstore Pomodoro One
